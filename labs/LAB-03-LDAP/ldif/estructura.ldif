@@ -1,0 +1,15 @@
+﻿# Estructura base del directorio LDAP.
+# La entrada raíz ya existe en el servidor validado.
+# Este ejemplo documenta las unidades organizativas que se crearon.
+
+dn: ou=usuarios,dc=indielabel,dc=com
+objectClass: organizationalUnit
+ou: usuarios
+
+dn: ou=grupos,dc=indielabel,dc=com
+objectClass: organizationalUnit
+ou: grupos
+
+dn: ou=servicios,dc=indielabel,dc=com
+objectClass: organizationalUnit
+ou: servicios

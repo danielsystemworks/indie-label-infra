@@ -1,0 +1,7 @@
+﻿# Ejemplo de modificación de un grupo existente.
+# Añade mrivera como miembro POSIX del grupo produccion.
+
+dn: cn=produccion,ou=grupos,dc=indielabel,dc=com
+changetype: modify
+add: memberUid
+memberUid: mrivera

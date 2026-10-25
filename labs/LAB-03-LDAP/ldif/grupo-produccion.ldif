@@ -1,0 +1,8 @@
+﻿# Ejemplo de grupo POSIX.
+# El grupo ya existe en el servidor validado.
+
+dn: cn=produccion,ou=grupos,dc=indielabel,dc=com
+objectClass: top
+objectClass: posixGroup
+cn: produccion
+gidNumber: 2001

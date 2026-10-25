@@ -1,0 +1,12 @@
+﻿# Ejemplo documental del usuario LDAP.
+# No incluye contraseña ni se debe ejecutar sin revisar si la entrada existe.
+
+dn: uid=mrivera,ou=usuarios,dc=indielabel,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+cn: Marcos Rivera
+sn: Rivera
+uid: mrivera
+mail: mrivera@indielabel.com
