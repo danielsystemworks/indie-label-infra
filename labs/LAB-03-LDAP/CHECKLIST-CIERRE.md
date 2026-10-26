@@ -26,13 +26,13 @@
 - [x] Revisado `git status` antes de preparar el cierre documental.
 - [x] Revisado el contenido de la documentación y las evidencias publicadas.
 - [x] Realizada una búsqueda preliminar de credenciales y atributos sensibles en los patrones comprobados.
-- [ ] Cambios del cierre preparados y commit realizado.
-- [ ] Cambios del cierre enviados a GitHub.
-- [ ] Repositorio remoto revisado después del último envío.
+- [x] Cambios del cierre preparados y commit realizado.
+- [x] Cambios del cierre enviados a GitHub.
+- [x] Repositorio remoto revisado después del último envío.
 
 ## D. Cierre
 
 - [x] Conclusiones finales y estado del laboratorio revisados.
-- [ ] Laboratorio marcado como documentado y cerrado tras publicar la revisión final.
+- [x] Laboratorio marcado como documentado y cerrado tras publicar la revisión final.
 
 **Observación:** las casillas técnicas reflejan las comprobaciones realizadas en la sesión de laboratorio. Las casillas documentales y de GitHub deben marcarse cuando se hayan completado realmente.

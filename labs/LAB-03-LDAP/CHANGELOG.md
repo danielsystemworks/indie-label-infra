@@ -22,4 +22,6 @@
 
 - Actualizado el estado final del laboratorio en `README.md`.
 - Revisado el checklist de cierre y diferenciadas las tareas completadas de las pendientes.
-- Preparada la documentación para la validación final, el commit y la publicación de esta revisión.
+- Commit `1ad00d4` creado y enviado a GitHub.
+- Verificada la sincronización de `main` con `origin/main` después del envío.
+- Checklist actualizado tras confirmar la publicación.
