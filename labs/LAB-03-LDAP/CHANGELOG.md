@@ -1,4 +1,4 @@
-﻿# Changelog — LAB-03-LDAP
+# Changelog — LAB-03-LDAP
 
 ## 2026-10-18 — Configuración principal completada
 
@@ -18,3 +18,8 @@
 - Revisados los cuatro ejemplos LDIF y corregido el nombre `modificar-grupo.ldif`.
 - Realizada una búsqueda preliminar de atributos sensibles en los LDIF, sin coincidencias en los patrones comprobados.
 - Pendiente: revisión final de todos los archivos publicables, validación del estado de Git y publicación en GitHub.
+## 2026-10-26 — Cierre documental
+
+- Actualizado el estado final del laboratorio en `README.md`.
+- Revisado el checklist de cierre y diferenciadas las tareas completadas de las pendientes.
+- Preparada la documentación para la validación final, el commit y la publicación de esta revisión.

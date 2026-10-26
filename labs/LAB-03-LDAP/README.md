@@ -208,4 +208,4 @@ resto de los archivos publicables para evitar exponer credenciales,
 hashes u otros datos sensibles.
 ## 11. Estado
 
-**Estado del laboratorio:** configuración principal y verificaciones funcionales completadas. Evidencias gráficas organizadas; revisión final de archivos publicables, cierre documental y publicación en GitHub pendientes.
+**Estado del laboratorio:** configuración principal y verificaciones funcionales completadas. Evidencias organizadas y documentación revisada. El laboratorio está publicado en GitHub; esta actualización completa su cierre documental.
